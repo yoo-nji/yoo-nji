@@ -1,17 +1,17 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vue&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=figma,ai,ps&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=notion,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,vue,figma,ai,ps,notion,github&theme=dark" />
   </a>
 </p>
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/yoo-nji"
-  width="600"
-  height="300"
-/>
-</a>
+<p align="center">
+  <a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/farms/yoo-nji"
+    width="600"
+    height="300"
+  />
+  </a>
+</p>
 
 <!--
 **yoo-nji/yoo-nji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
